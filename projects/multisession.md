@@ -23,6 +23,24 @@ Profissionais que utilizam várias contas precisam alternar entre navegadores, p
 - Temas claro e escuro e interface adaptada ao uso desktop.
 - Atualização assistida, iniciada somente por ação do usuário.
 
+## Evidências visuais
+
+![Gerenciamento de serviços e sessões no MultiSession](../assets/multisession/gerenciar-sessoes.png)
+
+*Gerenciamento das contas adicionadas, com opções de edição, reordenação, abertura, limpeza de login e remoção.*
+
+![Gerenciamento de permissões no MultiSession](../assets/multisession/gerenciar-permissoes.png)
+
+*Controle das permissões concedidas a cada serviço e sessão, incluindo câmera, microfone, localização e notificações.*
+
+![Atualizações assistidas no MultiSession](../assets/multisession/atualizacoes.png)
+
+*Verificação manual de novas versões, sem baixar, instalar ou reiniciar o aplicativo sem ação do usuário.*
+
+![Configurações gerais do MultiSession](../assets/multisession/configuracoes-gerais.png)
+
+*Preferências de tema, compatibilidade visual e inicialização junto ao Windows.*
+
 ## Arquitetura e tecnologias
 
 **TypeScript, JavaScript, Electron, Node.js, HTML, CSS, Zod, Vitest, Playwright e Electron Builder.**
