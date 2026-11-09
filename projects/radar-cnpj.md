@@ -26,7 +26,7 @@ Informações empresariais podem estar distribuídas entre diferentes fontes e e
   <img src="../assets/radar-cnpj/consulta-cnpj.png" alt="Consulta de CNPJ no Radar CNPJ" width="430">
 </p>
 
-*Consulta cadastral com dados públicos de um órgão da administração federal, histórico recente e geração de relatório.*
+*Consulta cadastral, histórico recente e geração de relatório.*
 
 <p align="center">
   <img src="../assets/radar-cnpj/favoritos.png" alt="Empresas favoritas no Radar CNPJ" width="430">
@@ -34,9 +34,9 @@ Informações empresariais podem estar distribuídas entre diferentes fontes e e
 
 *Cadastro de empresas favoritas para acesso e acompanhamento recorrentes.*
 
-![Alerta de alteração cadastral enviado pelo Radar CNPJ](../assets/radar-cnpj/alerta-email-sanitizado.png)
+![Alerta de alteração cadastral enviado pelo Radar CNPJ](../assets/radar-cnpj/alerta-email.png)
 
-*Alerta automático por e-mail após a identificação de uma alteração em empresa monitorada. O cabeçalho pessoal foi removido da captura.*
+*Alerta automático por e-mail após a identificação de uma alteração em empresa monitorada.*
 
 ## Arquitetura e tecnologias
 
@@ -54,4 +54,4 @@ Desenvolvimento da aplicação, implementação das integrações, experiência 
 
 ## Status
 
-Piloto em desenvolvimento. O código-fonte permanece privado; este estudo de caso não inclui dados empresariais, credenciais ou endpoints internos.
+Piloto em desenvolvimento. O código-fonte permanece privado.

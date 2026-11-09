@@ -2,7 +2,7 @@
 
 Sou estudante de Publicidade e Propaganda e desenvolvo produtos digitais com apoio de Inteligência Artificial, automação de processos e integração de sistemas. Meus projetos combinam visão de produto, Prompt Engineering, orquestração de agentes, desenvolvimento de software e validação técnica.
 
-Este portfólio apresenta estudos de caso de projetos autorais. Parte do código-fonte permanece privada por conter integrações, configurações de infraestrutura ou regras operacionais. As descrições abaixo se limitam a funcionalidades efetivamente implementadas e foram sanitizadas para não expor credenciais, dados pessoais ou ambientes privados.
+Este portfólio apresenta estudos de caso de projetos autorais. Parte do código-fonte permanece privada por conter integrações, configurações de infraestrutura ou regras operacionais. As descrições concentram-se na arquitetura, nas funcionalidades implementadas e nas tecnologias utilizadas.
 
 ## Competências
 

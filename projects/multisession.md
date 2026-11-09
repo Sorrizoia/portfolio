@@ -62,4 +62,4 @@ Concepção e evolução do produto, definição de requisitos, arquitetura Elec
 
 ## Status
 
-Beta funcional em evolução. O código-fonte é privado; este estudo de caso apresenta apenas informações técnicas sanitizadas.
+Beta funcional em evolução. O código-fonte permanece privado.

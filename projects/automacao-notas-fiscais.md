@@ -44,12 +44,11 @@ Fluxo principal:
 ## Confiabilidade e segurança
 
 - Limites de quantidade e tamanho antes do processamento.
-- Aceitação exclusiva de PDF no fluxo auditado.
+- Aceitação exclusiva de PDF na versão atual.
 - Bloqueio de duplicidades por chave normalizada.
 - Estados de processamento por marcadores de e-mail.
 - Respostas específicas para cada tipo de falha.
 - Separação entre interpretação por IA e validações determinísticas.
-- Documentação pública sem dados fiscais, credenciais ou identificadores internos.
 
 ## Atuação
 
@@ -57,4 +56,4 @@ Concepção do processo, construção do workflow, Prompt Engineering, integraç
 
 ## Status
 
-Solução operacional em uso contínuo. O workflow e os dados processados permanecem privados; este estudo de caso apresenta somente a arquitetura e as funcionalidades sanitizadas.
+Solução operacional em uso contínuo. O workflow e os dados processados permanecem privados.
