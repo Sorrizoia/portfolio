@@ -56,4 +56,4 @@ Concepção do processo, construção do workflow, Prompt Engineering, integraç
 
 ## Status
 
-Solução operacional em uso contínuo. O workflow e os dados processados permanecem privados.
+Solução operacional em uso contínuo.

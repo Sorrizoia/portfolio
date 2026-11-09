@@ -54,4 +54,4 @@ Desenvolvimento da aplicação, implementação das integrações, experiência 
 
 ## Status
 
-Piloto em desenvolvimento. O código-fonte permanece privado.
+Produto funcional em desenvolvimento, disponível como aplicação web/PWA e integrado ao Android por Capacitor.

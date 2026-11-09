@@ -10,7 +10,7 @@ Aplicação desktop para Windows que reúne múltiplas contas e serviços em uma
 
 ### [Cannot Get](projects/cannot-get.md)
 
-Bot de diversão e utilidade para WhatsApp, com criação de figurinhas a partir de imagens, vídeos e GIFs e recursos de apoio à administração de grupos. O projeto possui implementações independentes baseadas em OpenWA e Evolution API.
+Bot de diversão e utilidade para WhatsApp, com criação de figurinhas, recursos para grupos e mais de 5 mil usuários. O projeto utiliza Evolution API na operação principal e mantém uma integração OpenWA para automações em canais do WhatsApp.
 
 ### [Radar CNPJ](projects/radar-cnpj.md)
 
