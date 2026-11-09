@@ -20,6 +20,24 @@ Informações empresariais podem estar distribuídas entre diferentes fontes e e
 - Geração e compartilhamento de relatórios.
 - Experiência PWA e integração com Android por Capacitor.
 
+## Evidências visuais
+
+<p align="center">
+  <img src="../assets/radar-cnpj/consulta-cnpj.png" alt="Consulta de CNPJ no Radar CNPJ" width="430">
+</p>
+
+*Consulta cadastral com dados públicos de um órgão da administração federal, histórico recente e geração de relatório.*
+
+<p align="center">
+  <img src="../assets/radar-cnpj/favoritos.png" alt="Empresas favoritas no Radar CNPJ" width="430">
+</p>
+
+*Cadastro de empresas favoritas para acesso e acompanhamento recorrentes.*
+
+![Alerta de alteração cadastral enviado pelo Radar CNPJ](../assets/radar-cnpj/alerta-email-sanitizado.png)
+
+*Alerta automático por e-mail após a identificação de uma alteração em empresa monitorada. O cabeçalho pessoal foi removido da captura.*
+
 ## Arquitetura e tecnologias
 
 **JavaScript, HTML, CSS, n8n, APIs REST, PWA, Docker, Nginx e Capacitor.**
