@@ -1,4 +1,4 @@
-# SmartDownloader - Automação Inteligente de Notas Fiscais
+# Automação de Notas Fiscais | Processamento Inteligente de Documentos
 
 ## Visão geral
 
@@ -6,7 +6,7 @@ Automação para receber Notas Fiscais de Serviço eletrônicas por e-mail, vali
 
 ## Problema
 
-O processamento manual de notas recebidas por e-mail exige abrir mensagens, conferir anexos, identificar documentos inválidos ou repetidos, extrair campos, organizar arquivos e atualizar controles. O SmartDownloader transforma essas etapas em um fluxo automatizado e rastreável.
+O processamento manual de notas recebidas por e-mail exige abrir mensagens, conferir anexos, identificar documentos inválidos ou repetidos, extrair campos, organizar arquivos e atualizar controles. A solução transforma essas etapas em um fluxo automatizado e rastreável.
 
 ## Funcionalidades implementadas
 

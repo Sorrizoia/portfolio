@@ -26,7 +26,7 @@ Solução de automação para receber, processar, converter e enviar mídias pel
 
 Aplicação web/PWA para consulta e acompanhamento de informações cadastrais de empresas e sócios. Integra APIs externas e automações n8n para pesquisa, alertas, favoritos, histórico e relatórios.
 
-### [SmartDownloader - Automação de Notas Fiscais](projects/smartdownloader.md)
+### [Automação de Notas Fiscais | Processamento Inteligente de Documentos](projects/smartdownloader.md)
 
 Automação inteligente para receber NFS-e por e-mail, validar anexos, extrair dados com IA, identificar duplicidades, organizar documentos e responder automaticamente ao remetente. O fluxo está em uso contínuo e integra n8n, Gmail, Google Drive, Google Sheets e um agente de IA.
 
