@@ -4,6 +4,10 @@
 
 Aplicação desktop para Windows voltada ao gerenciamento de múltiplas contas de mensageiros, redes sociais e aplicações web. Cada conta utiliza uma sessão local isolada, permitindo alternar entre serviços sem misturar autenticações e dados.
 
+![Tela do MultiSession para adicionar contas e serviços](../assets/multisession/adicionar-conta.png)
+
+*Tela de adição de contas, com catálogo de serviços e sessões organizadas na navegação lateral.*
+
 ## Problema
 
 Profissionais que utilizam várias contas precisam alternar entre navegadores, perfis e abas, o que aumenta a fragmentação do trabalho. O MultiSession centraliza esses ambientes em uma interface desktop e preserva a separação entre as sessões.
