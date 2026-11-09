@@ -6,7 +6,7 @@ Projetos autorais de Inteligência Artificial aplicada, automação de processos
 
 ### [MultiSession](projects/multisession.md)
 
-Aplicação desktop para Windows que reúne múltiplas contas e serviços em uma única interface, mantendo sessões locais isoladas. O projeto demonstra desenvolvimento de produto, arquitetura Electron, segurança de WebViews e IPC, testes automatizados e evolução assistida por IA.
+Aplicação desktop para Windows que reúne múltiplas contas e serviços em uma única interface, mantendo sessões locais isoladas. Desenvolvida com Electron, WebViews protegidas, comunicação IPC validada e testes automatizados.
 
 ### [Cannot Get](projects/cannot-get.md)
 

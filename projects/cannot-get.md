@@ -29,7 +29,7 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Comunicação de novidades em uma comunidade com mais de 500 participantes.
 - Regras de uso e tratamento de dados orientadas à LGPD.
 
-## Funcionalidades em uso
+## Exemplos de uso
 
 | Meme e música | Download de vídeo | Remoção de fundo |
 |---|---|---|
@@ -67,7 +67,6 @@ Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem 
 
 - Mais de 5 mil usuários.
 - Comunidade com mais de 500 participantes acompanhando novidades e atualizações.
-- Operação real com regras de uso, proteção de dados e integração de pagamentos.
 
 ## Atuação
 
@@ -75,4 +74,4 @@ Concepção e evolução do produto, definição dos fluxos, integração dos se
 
 ## Status
 
-Produto operacional em evolução contínua, utilizado por mais de 5 mil pessoas.
+Produto em operação e evolução contínua.

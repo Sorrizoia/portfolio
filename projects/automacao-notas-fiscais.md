@@ -52,7 +52,7 @@ Fluxo principal:
 
 ## Atuação
 
-Concepção do processo, construção do workflow, Prompt Engineering, integração do agente de IA, desenvolvimento das validações em JavaScript, integração com serviços Google e evolução das mensagens automáticas. O projeto demonstra aplicação de IA Generativa em uma automação operacional de ponta a ponta.
+Concepção do processo, construção do workflow, Prompt Engineering, integração do agente de IA, desenvolvimento das validações em JavaScript, integração com serviços Google e evolução das mensagens automáticas.
 
 ## Status
 

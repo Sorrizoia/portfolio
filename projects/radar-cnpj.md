@@ -50,7 +50,7 @@ O n8n atua como camada de orquestração entre o frontend e os serviços de dado
 
 ## Atuação
 
-Desenvolvimento da aplicação, implementação das integrações, experiência PWA, ajustes para Android, favoritos, pesquisa, temas e evolução da interface. O projeto demonstra transformação de uma necessidade de negócio em produto digital integrado.
+Desenvolvimento da aplicação e da interface, implementação das integrações, experiência PWA, adaptação para Android, pesquisa, favoritos, alertas e geração de relatórios.
 
 ## Status
 
