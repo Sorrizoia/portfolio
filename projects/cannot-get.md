@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-Bot de diversão e utilidade para WhatsApp, criado para transformar imagens, vídeos e GIFs em figurinhas e oferecer recursos de apoio à administração de grupos.
+Bot de diversão e utilidade para WhatsApp, criado para transformar e baixar mídias, executar ferramentas criativas e oferecer recursos de apoio à administração de grupos.
 
 ## Problema
 
@@ -12,6 +12,10 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 
 - Recepção de eventos e mídias por WhatsApp.
 - Comandos para criação de figurinhas e uso das utilidades do bot.
+- Criação de memes a partir de imagens.
+- Busca e envio de músicas em áudio.
+- Download de vídeos a partir de links.
+- Remoção de fundo e geração de imagens em PNG.
 - Recursos de apoio à administração de grupos.
 - Integração com n8n por webhooks.
 - Conversão de imagem, vídeo e GIF para WebP com FFmpeg.
@@ -24,6 +28,18 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Integração com a API do Mercado Pago para pagamentos.
 - Comunicação de novidades em uma comunidade com mais de 500 participantes.
 - Regras de uso e tratamento de dados orientadas à LGPD.
+
+## Funcionalidades em uso
+
+| Meme e música | Download de vídeo | Remoção de fundo |
+|---|---|---|
+| <img src="../assets/cannot-get/meme-musica.webp" alt="Criação de meme e busca de música pelo X Bot" width="250"> | <img src="../assets/cannot-get/baixar-video.webp" alt="Download de vídeo pelo X Bot" width="250"> | <img src="../assets/cannot-get/remover-fundo.webp" alt="Remoção de fundo pelo X Bot" width="250"> |
+
+### Ativação do bot
+
+![Página de ativação do Cannot Get](../assets/cannot-get/ativacao-bot.png)
+
+*Cadastro com token de uso único, escolha do contexto de uso e idiomas português, espanhol e inglês.*
 
 ## Duas arquiteturas independentes
 
