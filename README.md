@@ -1,16 +1,6 @@
-# Portfólio - AI Building, Automação e Produtos Digitais
+# Portfólio de Projetos
 
-Sou estudante de Publicidade e Propaganda e desenvolvo produtos digitais com apoio de Inteligência Artificial, automação de processos e integração de sistemas. Meus projetos combinam visão de produto, Prompt Engineering, orquestração de agentes, desenvolvimento de software e validação técnica.
-
-Este portfólio apresenta estudos de caso de projetos autorais. Parte do código-fonte permanece privada por conter integrações, configurações de infraestrutura ou regras operacionais. As descrições concentram-se na arquitetura, nas funcionalidades implementadas e nas tecnologias utilizadas.
-
-## Competências
-
-- **Inteligência Artificial:** desenvolvimento assistido por IA, Prompt Engineering, engenharia de contexto, estruturação e supervisão de agentes.
-- **Automação e integração:** n8n, webhooks, APIs REST, JSON, filas e tratamento de eventos.
-- **Desenvolvimento:** JavaScript, TypeScript, Node.js, Electron, HTML e CSS.
-- **Infraestrutura e dados:** Docker, PostgreSQL, FFmpeg e Linux.
-- **Qualidade:** testes automatizados, validação de dados, deduplicação, rate limiting e diagnóstico de falhas.
+Projetos autorais de Inteligência Artificial aplicada, automação de processos, integração de sistemas e desenvolvimento de produtos digitais. Cada página apresenta o problema, as funcionalidades, a arquitetura, as tecnologias e o estágio atual da solução.
 
 ## Projetos
 
@@ -31,10 +21,6 @@ Aplicação web/PWA para consulta e acompanhamento de informações cadastrais d
 Automação inteligente para receber NFS-e por e-mail, validar anexos, extrair dados com IA, identificar duplicidades, organizar documentos e responder automaticamente ao remetente. O fluxo está em uso contínuo e integra n8n, Gmail, Google Drive, Google Sheets e um agente de IA.
 
 Em evolução: suporte a documentos fiscais em XML e integração com API de OCR como fallback para PDFs sem camada de texto.
-
-## Como trabalho com IA
-
-Utilizo IA como ferramenta de construção e revisão: transformo necessidades em especificações, estruturo contexto e critérios de aceitação para agentes, reviso o código gerado e valido o resultado com testes e evidências. A decisão final sobre arquitetura, segurança, produto e publicação permanece sob supervisão humana.
 
 ## Contato
 
