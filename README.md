@@ -30,6 +30,8 @@ Aplicação web/PWA para consulta e acompanhamento de informações cadastrais d
 
 Automação inteligente para receber NFS-e por e-mail, validar anexos, extrair dados com IA, identificar duplicidades, organizar documentos e responder automaticamente ao remetente. O fluxo está em uso contínuo e integra n8n, Gmail, Google Drive, Google Sheets e um agente de IA.
 
+Em evolução: suporte a documentos fiscais em XML e integração com API de OCR como fallback para PDFs sem camada de texto.
+
 ## Como trabalho com IA
 
 Utilizo IA como ferramenta de construção e revisão: transformo necessidades em especificações, estruturo contexto e critérios de aceitação para agentes, reviso o código gerado e valido o resultado com testes e evidências. A decisão final sobre arquitetura, segurança, produto e publicação permanece sob supervisão humana.

@@ -28,6 +28,11 @@ O fluxo utiliza um agente de IA no n8n, integrado ao modelo **Llama 3.3 70B via 
 
 Essa implementação combina Prompt Engineering, saída estruturada, regras determinísticas e validação posterior. A IA executa a leitura sem substituir os controles de formato, limites, duplicidade e consistência do processo.
 
+## Funcionalidades em implementação
+
+- Suporte ao recebimento e processamento de documentos fiscais em XML.
+- Integração com API de OCR como fallback para PDFs sem camada de texto.
+
 ## Arquitetura e tecnologias
 
 **n8n, JavaScript, Gmail API, Google Drive, Google Sheets, agentes LangChain, Groq, Llama 3.3, JSON e APIs REST.**
