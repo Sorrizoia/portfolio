@@ -21,8 +21,3 @@ Aplicação web/PWA para consulta e acompanhamento de informações cadastrais d
 Automação inteligente para receber NFS-e por e-mail, validar anexos, extrair dados com IA, identificar duplicidades, organizar documentos e responder automaticamente ao remetente. O fluxo está em uso contínuo e integra n8n, Gmail, Google Drive, Google Sheets e um agente de IA.
 
 Em evolução: suporte a documentos fiscais em XML e integração com API de OCR como fallback para PDFs sem camada de texto.
-
-## Contato
-
-- GitHub: [github.com/Sorrizoia](https://github.com/Sorrizoia)
-- Disponível para oportunidades em Inteligência Artificial Generativa, AI Building, automação de processos e desenvolvimento de produtos digitais.
