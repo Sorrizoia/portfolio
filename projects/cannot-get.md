@@ -2,15 +2,17 @@
 
 ## Visão geral
 
-Solução de automação para receber imagens, vídeos e GIFs pelo WhatsApp, processar as mídias e devolver figurinhas. O projeto também contempla integrações controladas para publicação de mídia em destinos autorizados.
+Bot de diversão e utilidade para WhatsApp, criado para transformar imagens, vídeos e GIFs em figurinhas e oferecer recursos de apoio à administração de grupos.
 
 ## Problema
 
-O processamento de mídia em serviços de mensageria envolve eventos assíncronos, limites de tamanho, falhas de download, duplicidades e risco de envio indevido. A solução organiza esse caminho em componentes separados e adiciona controles operacionais.
+Criar figurinhas a partir de diferentes formatos normalmente exige outros aplicativos e várias etapas fora do WhatsApp. O Cannot Get simplifica esse processo com comandos no próprio chat e reúne utilidades para facilitar a organização e a interação nos grupos.
 
 ## Funcionalidades implementadas
 
 - Recepção de eventos e mídias por WhatsApp.
+- Comandos para criação de figurinhas e uso das utilidades do bot.
+- Recursos de apoio à administração de grupos.
 - Integração com n8n por webhooks.
 - Conversão de imagem, vídeo e GIF para WebP com FFmpeg.
 - Filas com limite e controle de concorrência.

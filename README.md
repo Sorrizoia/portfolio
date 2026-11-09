@@ -10,7 +10,7 @@ Aplicação desktop para Windows que reúne múltiplas contas e serviços em uma
 
 ### [Cannot Get](projects/cannot-get.md)
 
-Solução de automação para receber, processar, converter e enviar mídias pelo WhatsApp. O projeto integra mensageria, n8n, filas, webhooks, Docker e FFmpeg, com implementações independentes baseadas em OpenWA e Evolution API.
+Bot de diversão e utilidade para WhatsApp, com criação de figurinhas a partir de imagens, vídeos e GIFs e recursos de apoio à administração de grupos. O projeto possui implementações independentes baseadas em OpenWA e Evolution API.
 
 ### [Radar CNPJ](projects/radar-cnpj.md)
 
