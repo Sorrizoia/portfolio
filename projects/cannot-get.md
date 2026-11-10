@@ -25,15 +25,18 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Limites de tamanho e duração de mídia.
 - Allowlist de destinos e modo de execução sem envio real.
 - Métricas de fila, healthchecks e logs para diagnóstico.
-- Integração com a API do Mercado Pago para pagamentos.
 - Comunicação de novidades em uma comunidade com mais de 500 participantes.
 - Regras de uso e tratamento de dados orientadas à LGPD.
+
+## Em implementação
+
+- Integração com o sistema de pagamentos do Mercado Pago para gerar automaticamente o token de assinatura após a confirmação do pagamento.
 
 ## Exemplos de uso
 
 | Meme e música | Download de vídeo | Remoção de fundo |
 |---|---|---|
-| <img src="../assets/cannot-get/meme-musica.webp" alt="Criação de meme e busca de música pelo X Bot" width="250"> | <img src="../assets/cannot-get/baixar-video.webp" alt="Download de vídeo pelo X Bot" width="250"> | <img src="../assets/cannot-get/remover-fundo.webp" alt="Remoção de fundo pelo X Bot" width="250"> |
+| <img src="../assets/cannot-get/meme-musica.webp" alt="Criação de meme e busca de música pelo Cannot Get" width="250"> | <img src="../assets/cannot-get/baixar-video.webp" alt="Download de vídeo pelo Cannot Get" width="250"> | <img src="../assets/cannot-get/remover-fundo.webp" alt="Remoção de fundo pelo Cannot Get" width="250"> |
 
 ### Ativação do bot
 
@@ -55,7 +58,7 @@ OpenWA e Evolution API são integrações distintas e não compartilham a mesma 
 
 ## Infraestrutura e tecnologias
 
-**Node.js, JavaScript, n8n, OpenWA, whatsapp-web.js, Evolution API, Baileys, Docker, FFmpeg, Mercado Pago, webhooks e APIs REST.**
+**Node.js, JavaScript, n8n, OpenWA, whatsapp-web.js, Evolution API, Baileys, Docker, FFmpeg, webhooks e APIs REST.**
 
 Os serviços são separados em contêineres e possuem restrições de filesystem, recursos, privilégios e exposição de portas. O conversor utiliza diretórios temporários e remove os arquivos após cada processamento.
 
@@ -65,12 +68,19 @@ Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem 
 
 ## Adoção
 
-- Mais de 5 mil usuários.
+![Métricas de adoção do Cannot Get](../assets/cannot-get/metricas-adocao.jpg)
+
+*Indicadores registrados em novembro de 2026.*
+
+- Mais de 5 mil usuários acumulados.
+- 2.802 usuários ativos.
+- 20.413 figurinhas criadas.
+- 2.819 figurinhas processadas por dia.
 - Comunidade com mais de 500 participantes acompanhando novidades e atualizações.
 
 ## Atuação
 
-Concepção e evolução do produto, definição dos fluxos, integração dos serviços, implementação das regras de uso, administração da comunidade, integração de pagamentos e acompanhamento da operação. A atuação combina desenvolvimento de produto, automação, APIs e resolução de problemas em sistemas distribuídos.
+Concepção e evolução do produto, definição dos fluxos, integração dos serviços, implementação das regras de uso, administração da comunidade e acompanhamento da operação. A atuação combina desenvolvimento de produto, automação, APIs e resolução de problemas em sistemas distribuídos.
 
 ## Status
 
