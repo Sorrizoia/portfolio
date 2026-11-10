@@ -4,9 +4,7 @@ Projetos autorais de Inteligência Artificial aplicada, automação de processos
 
 ## Projetos
 
-<a id="painel-juridico-franquias"></a>
-
-### [Painel Jurídico & Franquias](#painel-juridico-franquias)
+### [Painel Jurídico & Franquias](projects/painel-juridico-franquias.md)
 
 Painel online com acesso restrito e agente de IA para processar e-mails e tarefas, transformando mensagens em checklists com etapas, responsáveis e contexto. A solução atualiza o dashboard automaticamente, identifica prazos vencidos, prioriza tarefas e sugere próximas ações. Desenvolvida com Codex, Google Apps Script, HTML, JavaScript e Gmail.
 
