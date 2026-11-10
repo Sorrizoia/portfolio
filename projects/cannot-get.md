@@ -16,7 +16,11 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Busca e envio de músicas em áudio.
 - Download de vídeos a partir de links.
 - Remoção de fundo e geração de imagens em PNG.
-- Recursos de apoio à administração de grupos.
+- Configurações persistentes de administração por grupo.
+- Mensagens personalizadas de boas-vindas e despedida e cadastro de regras.
+- Sistema de avisos com limite e período de validade configuráveis.
+- Proteção contra links, flood e palavras bloqueadas.
+- Controle de participantes, permissões administrativas e configurações do grupo.
 - Integração com n8n por webhooks.
 - Conversão de imagem, vídeo e GIF para WebP com FFmpeg.
 - Filas com limite e controle de concorrência.
@@ -26,11 +30,14 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Allowlist de destinos e modo de execução sem envio real.
 - Métricas de fila, healthchecks e logs para diagnóstico.
 - Comunicação de novidades em uma comunidade com mais de 500 participantes.
-- Regras de uso e tratamento de dados orientadas à LGPD.
 - Coleta automatizada de feedbacks enviados pelos usuários.
 - Encaminhamento dos relatos ao Telegram para acompanhamento e tratamento.
 - Geração de código de referência para identificação de cada atendimento.
 - Retorno ao usuário após a resolução, com o código do atendimento e orientação para comunicar novas ocorrências.
+
+## Privacidade e proteção de dados
+
+A operação adota diretrizes de minimização de dados, controle de acesso, retenção e exclusão, transparência por meio de política de privacidade e consentimento quando aplicável. As regras de uso e os fluxos de atendimento são estruturados com atenção à LGPD.
 
 ## Em implementação
 
@@ -74,7 +81,7 @@ Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem 
 
 ![Métricas de adoção do Cannot Get](../assets/cannot-get/metricas-adocao.jpg)
 
-*Indicadores registrados em novembro de 2026.*
+*Indicadores consolidados de setembro e outubro de 2026.*
 
 - Mais de 5 mil usuários acumulados.
 - 2.802 usuários ativos.

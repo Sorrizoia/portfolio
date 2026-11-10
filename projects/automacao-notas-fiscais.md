@@ -22,6 +22,16 @@ O processamento manual de notas recebidas por e-mail exige abrir mensagens, conf
 - Aplicação de marcadores para controlar o estado do processamento.
 - Respostas automáticas para sucesso, duplicidade, ausência de anexo, excesso de arquivos, tamanho excedido ou formato inválido.
 
+## Evidências visuais
+
+![Workflows da automação de notas fiscais](../assets/automacao-notas-fiscais/workflows-publicados.png)
+
+*Workflows publicados para análise de notas, organização mensal e acompanhamento dos registros.*
+
+![Fluxo de leitura, validação e deduplicação de notas fiscais](../assets/automacao-notas-fiscais/fluxo-processamento.png)
+
+*Trecho do processamento com extração de PDF, agente de IA, validação em JavaScript, consulta de duplicidades e registro de ocorrências.*
+
 ## Inteligência Artificial
 
 O fluxo utiliza um agente de IA no n8n, integrado ao modelo **Llama 3.3 70B via Groq**, para transformar o texto extraído do PDF em um objeto JSON com campos definidos. O prompt restringe o processamento a NFS-e, rejeita documentos de outras categorias e exige retorno estruturado para validação nas etapas seguintes.
