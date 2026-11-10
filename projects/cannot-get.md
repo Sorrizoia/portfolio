@@ -27,6 +27,10 @@ Criar figurinhas a partir de diferentes formatos normalmente exige outros aplica
 - Métricas de fila, healthchecks e logs para diagnóstico.
 - Comunicação de novidades em uma comunidade com mais de 500 participantes.
 - Regras de uso e tratamento de dados orientadas à LGPD.
+- Coleta automatizada de feedbacks enviados pelos usuários.
+- Encaminhamento dos relatos ao Telegram para acompanhamento e tratamento.
+- Geração de código de referência para identificação de cada atendimento.
+- Retorno ao usuário após a resolução, com o código do atendimento e orientação para comunicar novas ocorrências.
 
 ## Em implementação
 
@@ -58,13 +62,13 @@ OpenWA e Evolution API são integrações distintas e não compartilham a mesma 
 
 ## Infraestrutura e tecnologias
 
-**Node.js, JavaScript, n8n, OpenWA, whatsapp-web.js, Evolution API, Baileys, Docker, FFmpeg, webhooks e APIs REST.**
+**Node.js, JavaScript, n8n, OpenWA, whatsapp-web.js, Evolution API, Baileys, Telegram, Docker, FFmpeg, webhooks e APIs REST.**
 
 Os serviços são separados em contêineres e possuem restrições de filesystem, recursos, privilégios e exposição de portas. O conversor utiliza diretórios temporários e remove os arquivos após cada processamento.
 
 ## Operação e confiabilidade
 
-Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem acompanhar o fluxo ponta a ponta, diagnosticar ocorrências e manter a estabilidade do serviço.
+Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem acompanhar o fluxo ponta a ponta, diagnosticar ocorrências e manter a estabilidade do serviço. O canal automatizado de feedback conecta os relatos dos usuários ao processo de acompanhamento no Telegram e mantém cada atendimento vinculado a um código de referência.
 
 ## Adoção
 
@@ -80,7 +84,7 @@ Logs, webhooks, filas, execuções do n8n e métricas de processamento permitem 
 
 ## Atuação
 
-Concepção e evolução do produto, definição dos fluxos, integração dos serviços, implementação das regras de uso, administração da comunidade e acompanhamento da operação. A atuação combina desenvolvimento de produto, automação, APIs e resolução de problemas em sistemas distribuídos.
+Concepção e evolução do produto, definição dos fluxos, integração dos serviços, implementação das regras de uso, administração da comunidade, tratamento de feedbacks e acompanhamento da operação. A atuação combina desenvolvimento de produto, automação, APIs e resolução de problemas em sistemas distribuídos.
 
 ## Status
 
